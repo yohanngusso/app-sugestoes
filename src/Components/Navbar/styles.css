@@ -1,0 +1,16 @@
+.navbar {
+    background-color: #0f172a;
+    padding: 15px 5%;
+    display: flex;
+    justify-content: center;
+    position: sticky;
+    top: 0;
+    border-bottom: 2px solid #3b82f6;
+  }
+
+.page-title {
+    color: #fff;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+  
